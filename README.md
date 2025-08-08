@@ -1,9 +1,4 @@
 
-# Quran Copy Creator Tool
-
-![Quran Edu Hero](./docs/hero-screenshot.png)
-![Quran Edu Featured Courses](./docs/featured-courses-screenshot.png)
-
 ## 🌟 Quran Edu: Learn Quran Online
 
 A modern, responsive web app for learning Quranic recitation, Arabic, and Islamic studies with expert tutors. Built with React, Vite, Tailwind CSS, and shadcn/ui.
@@ -36,15 +31,7 @@ npm run build
 
 ---
 
-## 📸 Screenshots
 
-### Hero Section
-![Hero Section](./docs/hero-screenshot.png)
-
-### Featured Courses
-![Featured Courses](./docs/featured-courses-screenshot.png)
-
----
 
 ## 🗂️ Project Structure
 
@@ -90,19 +77,10 @@ Pull requests are welcome! For major changes, please open an issue first to disc
 
 > "The best among you are those who learn the Quran and teach it." — Prophet Muhammad (ﷺ)
 
-## Project info
-
-**URL**: https://lovable.dev/projects/b541e35b-3445-48f1-9892-885d99a7b74a
-
 ## How can I edit this code?
 
 There are several ways of editing your application.
 
-**Use Lovable**
-
-Simply visit the [Lovable Project](https://lovable.dev/projects/b541e35b-3445-48f1-9892-885d99a7b74a) and start prompting.
-
-Changes made via Lovable will be committed automatically to this repo.
 
 **Use your preferred IDE**
 
