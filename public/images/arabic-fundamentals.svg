@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 450" role="img" aria-label="Arabic language fundamentals">
+  <defs>
+    <linearGradient id="g2" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0" stop-color="#0ea5a4"/>
+      <stop offset="1" stop-color="#10b981"/>
+    </linearGradient>
+  </defs>
+  <rect width="800" height="450" fill="url(#g2)"/>
+  <g fill="#fff" opacity="0.1">
+    <rect x="40" y="40" width="120" height="120" rx="16"/>
+    <rect x="640" y="80" width="120" height="120" rx="16"/>
+  </g>
+  <g transform="translate(120,80)">
+    <rect x="0" y="40" width="560" height="260" rx="20" fill="#fff"/>
+    <text x="280" y="170" font-size="120" font-family="'Amiri', serif" text-anchor="middle" fill="#10b981">ا</text>
+  </g>
+</svg>
